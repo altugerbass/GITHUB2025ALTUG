@@ -1,0 +1,20 @@
+body {
+background-color: chocolate;
+color: white;    
+p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;    
+}
+}
