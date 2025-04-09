@@ -18,7 +18,7 @@ git clone https://github.com/altugerbass/bilgisayar-programc-l-grup4.git
 
 ## 💡 Amaç
 
-HTML ve CSS temellerini öğrenmek, web tasarımına adım atmak ve grup çalışmasıyla proje yürütme deneyimi kazanmak.
+HTML ve CSS temellerini öğrenmek, web tasarımına adım atmak ve grup çalışmasıyla proje yürütme deneyimi kazanmak, JAVA SCRİPT ile öğrenme becerilerine katıkıda bulunmak.
 
 ## 🙌 Katkıda Bulunmak
 
