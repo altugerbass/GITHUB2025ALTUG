@@ -35,4 +35,4 @@ Bu proje MIT lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilirsini
 
 > "Kod, kelimelerin sustuğu yerde konuşur."
 > 
-> — Grup 4 Ekibi
+> — Grup 1 Ekibi
