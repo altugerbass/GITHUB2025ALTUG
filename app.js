@@ -14,3 +14,5 @@ console.log(doğumYılınız);
 console.log(doğumTarihiniz);
 
 
+
+
