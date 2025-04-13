@@ -1,18 +1,17 @@
 let adınız = "altug";
 let soyadınız = "erbas";
-let doğumYeri = "ankara";
-let medeniDurum = "bekar";
-let yaşınız = "19";
-let doğumYılınız = "2006";
-let doğumTarihiniz = "22-03-2006";
+let yasınız = 19;
+let dogumtarihi = 2006;
+let ikametedilensehir = "ankara";
+let medenidurumunuz = "evli";
+let mesleğiniz = "yazılımcı";
+let hobiler = ["spor" , "vscode" , "DJ'lik" , ];
 console.log(adınız);
 console.log(soyadınız);
-console.log(doğumYeri);
-console.log(medeniDurum);
-console.log(yaşınız);
-console.log(doğumYılınız);
-console.log(doğumTarihiniz);
-
-
-
-
+console.log(yasınız);
+console.log(dogumtarihi);
+console.log(ikametedilensehir);
+console.log(medenidurumunuz);
+console.log(mesleğiniz);
+console.log(hobiler);
+console.log("tesekkurler");
