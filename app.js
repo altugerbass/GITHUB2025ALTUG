@@ -15,3 +15,4 @@ console.log(medenidurumunuz);
 console.log(mesleğiniz);
 console.log(hobiler);
 console.log("tesekkurler");
+console.log("benim bilgilerim" + adınız + " " + soyadınız + " " + yasınız + " " + dogumtarihi + " " + ikametedilensehir + " " + medenidurumunuz + " " + mesleğiniz + " " + hobiler);
