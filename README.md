@@ -1,6 +1,6 @@
-# Bilgisayar Programcılığı - Grup 4 Ders Notları
+# Bilgisayar Programcılığı - Altuğ Erbaş Ders Notları
 
-Bu repo, Ostim Teknik Üniversitesi Bilgisayar Programcılığı bölümü 1. sınıf öğrencileri tarafından hazırlanan ders notlarını ve örnek uygulamaları içerir.
+Bu repo, Ostim Teknik Üniversitesi Bilgisayar Programcılığı bölümü 1. sınıf öğrencisi Altuğ Erbaş tarafından hazırlanan ders notlarını ve örnek uygulamaları içerir.
 
 ## 📁 Proje Dosyaları
 
